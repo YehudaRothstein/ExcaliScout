@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/app.py",
+      "src": "api/wsgi.py",
       "use": "@vercal/python",
         "config": { "runtime": "python" }
     }
